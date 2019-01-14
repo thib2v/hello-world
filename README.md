@@ -1,2 +1,2 @@
 # hello-world
-my very first repo
+Hi my name is Thibault and I am now on Github
